@@ -1,0 +1,65 @@
+*{
+    padding:0;
+    margin:0;
+}
+div{
+    display: flex;
+}
+body{
+    background-color: seagreen;
+}
+table{
+height: 350px;
+width: 300px;
+margin-top: 100px;
+margin-left: 350px;
+border: 1px solid black;
+border-radius: 9px;
+background-color: white;
+}
+.inputfild{
+    height: 30px;
+    width: 230px;
+    border-radius: 3px;
+    border: 1px solid black;
+    text-align: center;
+}
+#button{
+    height: 30px;
+    width: 230px;
+    background-color: seagreen;
+    color: white;
+    border: 1px solid black;
+    border-radius: 3px;
+}
+#forget{
+    float: left;
+    margin-left: 9px;
+    color: seagreen;
+}
+#signup{
+    color: seagreen;
+}
+.change{
+    height: 400px;
+    margin-left: 20px;
+    margin-top: 50px;
+}
+.input1{
+    height:30px;
+    width: 230px;
+    text-align: center;
+}
+#button1{
+    height: 30px;
+    width: 200px;
+    background-color: seagreen;
+    color: white;
+    border: 1px solid black;
+    border-radius: 3px;
+}
+#log
+{
+    color: seagreen;
+}
+
